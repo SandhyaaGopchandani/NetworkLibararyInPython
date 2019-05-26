@@ -1,0 +1,616 @@
+Ole Miss" "Miss. State
+Ole Miss" "LSU
+Ole Miss" "Auburn
+Ole Miss" "Vanderbilt
+Ole Miss" "Alabama
+Ole Miss" "Wyoming
+Ole Miss" "Kentucky
+Ole Miss" "Tennessee
+Ole Miss" "Memphis
+Ole Miss" "Arkansas
+East Carolina" "Wake Forest
+East Carolina" "Marshall
+East Carolina" "Southern Miss.
+East Carolina" "West Virginia
+East Carolina" "SMU
+East Carolina" "Rice
+East Carolina" "UAB
+East Carolina" "Tulsa
+East Carolina" "Memphis
+East Carolina" "Duke
+East Carolina" "UCF
+Wake Forest" "Boston College
+Wake Forest" "Nebraska
+Wake Forest" "Miami-FL
+Wake Forest" "Clemson
+Wake Forest" "NC State
+Wake Forest" "Vanderbilt
+Wake Forest" "Georgia Tech
+Wake Forest" "Florida State
+Wake Forest" "Maryland
+Wake Forest" "Duke
+Louisiana Tech" "Utah State
+Louisiana Tech" "North Texas
+Louisiana Tech" "Kansas
+Louisiana Tech" "San Jose St.
+Louisiana Tech" "Idaho
+Louisiana Tech" "Hawaii
+Louisiana Tech" "New Mexico St.
+Louisiana Tech" "Fresno State
+Louisiana Tech" "Florida
+Louisiana Tech" "Boise State
+Louisiana Tech" "Nevada
+Army" "Boston College
+Army" "Connecticut
+Army" "Akron
+Army" "Navy
+Army" "Central Michigan
+Army" "Air Force
+Army" "Baylor
+Army" "TCU
+Army" "Iowa State
+Army" "Arkansas St.
+NC State" "Boston College
+NC State" "Maryland
+NC State" "Clemson
+NC State" "Georgia Tech
+NC State" "North Carolina
+NC State" "Virginia Tech
+NC State" "Florida State
+NC State" "Southern Miss.
+NC State" "Middle Tenn St.
+LSU" "Miss. State
+LSU" "Auburn
+LSU" "Arizona State
+LSU" "North Texas
+LSU" "Vanderbilt
+LSU" "Alabama
+LSU" "Tennessee
+LSU" "Florida
+LSU" "Georgia
+LSU" "Arkansas
+Southern Cal" "California
+Southern Cal" "UCLA
+Southern Cal" "Arizona State
+Southern Cal" "Arizona
+Southern Cal" "Hawaii
+Southern Cal" "Fresno State
+Southern Cal" "Washington
+Southern Cal" "Oregon
+Southern Cal" "Notre Dame
+Southern Cal" "Stanford
+Southern Cal" "Arkansas
+Southern Cal" "Wash. St.
+Air Force" "UNLV
+Air Force" "Colorado State
+Air Force" "Utah
+Air Force" "Wyoming
+Air Force" "Navy
+Air Force" "Brigham Young
+Air Force" "San Diego St.
+Air Force" "Washington
+Air Force" "TCU
+Air Force" "New Mexico
+Maryland" "Boston College
+Maryland" "Clemson
+Maryland" "West Virginia
+Maryland" "Navy
+Maryland" "Virginia
+Maryland" "North Carolina
+Maryland" "Virginia Tech
+Maryland" "Florida State
+Maryland" "Temple
+Northwestern" "Wisconsin
+Northwestern" "Ohio State
+Northwestern" "Illinois
+Northwestern" "Louisiana-Monroe
+Northwestern" "Arizona State
+Northwestern" "Michigan State
+Northwestern" "Michigan
+Northwestern" "Northern Illinois
+Northwestern" "Iowa
+Northwestern" "Penn State
+Northwestern" "Ohio
+Northwestern" "Louisiana-Laf.
+Northwestern" "Purdue
+Wash. St." "California
+Wash. St." "Arizona State
+Wash. St." "UCLA
+Wash. St." "Idaho
+Wash. St." "Washington
+Wash. St." "Oregon State
+Wash. St." "Oregon
+Wash. St." "Nevada
+Wash. St." "Stanford
+Connecticut" "Louisville
+Connecticut" "Rutgers
+Connecticut" "Syracuse
+Connecticut" "West Virginia
+Connecticut" "South Florida
+Connecticut" "Georgia Tech
+Connecticut" "Buffalo
+Connecticut" "Cincinnati
+Connecticut" "Pittsburgh
+Minnesota" "Wisconsin
+Minnesota" "Ohio State
+Minnesota" "Colorado State
+Minnesota" "Indiana
+Minnesota" "Michigan
+Minnesota" "Iowa
+Minnesota" "Penn State
+Minnesota" "Tulsa
+Minnesota" "Michigan State
+Minnesota" "Purdue
+Ball State" "Boston College
+Ball State" "Akron
+Ball State" "Auburn
+Ball State" "Northern Illinois
+Ball State" "Central Michigan
+Ball State" "Eastern Michigan
+Ball State" "Western Michigan
+Ball State" "Bowling Green
+Ball State" "Iowa
+Ball State" "Toledo
+Ball State" "Ohio
+San Jose St." "Utah State
+San Jose St." "Illinois
+San Jose St." "Idaho
+San Jose St." "San Diego St.
+San Jose St." "Hawaii
+San Jose St." "New Mexico St.
+San Jose St." "Fresno State
+San Jose St." "Boise State
+San Jose St." "Nevada
+Arizona" "California
+Arizona" "Utah
+Arizona" "UCLA
+Arizona" "Washington
+Arizona" "Oregon State
+Arizona" "Oregon
+Arizona" "Purdue
+Arizona" "Arizona State
+Arizona" "Stanford
+Tulane" "Miss. State
+Tulane" "Texas-El Paso
+Tulane" "Southern Miss.
+Tulane" "SMU
+Tulane" "Navy
+Tulane" "Rice
+Tulane" "Tulsa
+Tulane" "Houston
+Tulane" "Marshall
+Tulane" "UCF
+Ohio" "Kent
+Ohio" "Miami-OH
+Ohio" "Akron
+Ohio" "Central Michigan
+Ohio" "Bowling Green
+Ohio" "Virginia Tech
+Ohio" "Toledo
+Ohio" "Buffalo
+Ohio" "Pittsburgh
+OK State" "Oklahoma
+OK State" "Texas
+OK State" "Colorado
+OK State" "Texas Tech
+OK State" "Arkansas St.
+OK State" "Baylor
+OK State" "Texas A&M
+OK State" "Iowa State
+OK State" "Missouri
+Rutgers" "Louisville
+Rutgers" "Illinois
+Rutgers" "Syracuse
+Rutgers" "West Virginia
+Rutgers" "Navy
+Rutgers" "South Florida
+Rutgers" "Buffalo
+Rutgers" "Pittsburgh
+Rutgers" "Cincinnati
+Texas-El Paso" "Memphis
+Texas-El Paso" "New Mexico
+Texas-El Paso" "SMU
+Texas-El Paso" "New Mexico St.
+Texas-El Paso" "Rice
+Texas-El Paso" "UAB
+Texas-El Paso" "Tulsa
+Texas-El Paso" "Marshall
+Texas-El Paso" "Houston
+Southern Miss." "Memphis
+Southern Miss." "Alabama
+Southern Miss." "UAB
+Southern Miss." "Tulsa
+Southern Miss." "Marshall
+Southern Miss." "UCF
+New Mexico" "UNLV
+New Mexico" "Colorado State
+New Mexico" "Utah
+New Mexico" "Brigham Young
+New Mexico" "San Diego St.
+New Mexico" "Wyoming
+New Mexico" "New Mexico St.
+New Mexico" "TCU
+New Mexico" "Missouri
+Boise State" "Utah State
+Boise State" "Idaho
+Boise State" "Bowling Green
+Boise State" "Hawaii
+Boise State" "New Mexico St.
+Boise State" "Fresno State
+Boise State" "Oregon State
+Boise State" "Georgia
+Boise State" "Nevada
+Louisiana-Monroe" "Arkansas St.
+Louisiana-Monroe" "Louisiana-Laf.
+Louisiana-Monroe" "North Texas
+Louisiana-Monroe" "Wyoming
+Louisiana-Monroe" "Georgia
+Louisiana-Monroe" "Troy
+Louisiana-Monroe" "Middle Tenn St.
+Louisiana-Monroe" "Arkansas
+West Virginia" "Louisville
+West Virginia" "Syracuse
+West Virginia" "South Florida
+West Virginia" "Virginia Tech
+West Virginia" "Cincinnati
+West Virginia" "Pittsburgh
+Tennessee" "Memphis
+Tennessee" "South Carolina
+Tennessee" "Vanderbilt
+Tennessee" "Alabama
+Tennessee" "Kentucky
+Tennessee" "Notre Dame
+Tennessee" "UAB
+Tennessee" "Florida
+Tennessee" "Georgia
+Troy" "Arkansas St.
+Troy" "North Texas
+Troy" "South Carolina
+Troy" "UAB
+Troy" "Missouri
+Troy" "Louisiana-Laf.
+Troy" "Middle Tenn St.
+Ohio State" "Miami-OH
+Ohio State" "Illinois
+Ohio State" "San Diego St.
+Ohio State" "Michigan State
+Ohio State" "Michigan
+Ohio State" "Iowa
+Ohio State" "Penn State
+Ohio State" "Texas
+Ohio State" "Indiana
+Iowa State" "Nebraska
+Iowa State" "Kansas State
+Iowa State" "Kansas
+Iowa State" "Colorado
+Iowa State" "Iowa
+Iowa State" "Baylor
+Iowa State" "Texas A&M
+Iowa State" "Missouri
+Stanford" "California
+Stanford" "Arizona State
+Stanford" "Navy
+Stanford" "UCLA
+Stanford" "Oregon State
+Stanford" "Oregon
+Stanford" "Notre Dame
+Arizona State" "UCLA
+Arizona State" "Washington
+Arizona State" "Oregon State
+Arizona State" "Oregon
+Arizona State" "Temple
+Baylor" "Oklahoma
+Baylor" "Nebraska
+Baylor" "Texas Tech
+Baylor" "SMU
+Baylor" "Texas A&M
+Baylor" "Texas
+Baylor" "Missouri
+Colorado" "Nebraska
+Colorado" "Kansas State
+Colorado" "Colorado State
+Colorado" "Miami-FL
+Colorado" "Kansas
+Colorado" "New Mexico St.
+Colorado" "Texas A&M
+Colorado" "Texas
+Colorado" "Missouri
+Central Michigan" "Miami-OH
+Central Michigan" "Akron
+Central Michigan" "Northern Illinois
+Central Michigan" "Western Michigan
+Central Michigan" "Indiana
+Central Michigan" "Toledo
+Central Michigan" "Penn State
+Central Michigan" "Eastern Michigan
+Alabama" "Utah State
+Alabama" "Miss. State
+Alabama" "Auburn
+Alabama" "Middle Tenn St.
+Alabama" "Florida
+Alabama" "South Carolina
+Alabama" "Arkansas
+North Carolina" "Boston College
+North Carolina" "Virginia Tech
+North Carolina" "Wisconsin
+North Carolina" "Miami-FL
+North Carolina" "Utah
+North Carolina" "Virginia
+North Carolina" "Georgia Tech
+North Carolina" "Louisville
+North Carolina" "Duke
+Iowa" "Wisconsin
+Iowa" "Illinois
+Iowa" "Indiana
+Iowa" "Michigan
+Iowa" "Purdue
+Fresno State" "Utah State
+Fresno State" "Idaho
+Fresno State" "Hawaii
+Fresno State" "New Mexico St.
+Fresno State" "Toledo
+Fresno State" "Oregon
+Fresno State" "Nevada
+Washington" "California
+Washington" "UCLA
+Washington" "Idaho
+Washington" "Oregon State
+Washington" "Oregon
+Washington" "Notre Dame
+Buffalo" "Kent
+Buffalo" "Miami-OH
+Buffalo" "Akron
+Buffalo" "Syracuse
+Buffalo" "Eastern Michigan
+Buffalo" "Western Michigan
+Buffalo" "Bowling Green
+Buffalo" "Toledo
+Cincinnati" "Miami-OH
+Cincinnati" "Eastern Michigan
+Cincinnati" "Syracuse
+Cincinnati" "South Florida
+Cincinnati" "Penn State
+Cincinnati" "Louisville
+Cincinnati" "Pittsburgh
+Vanderbilt" "South Carolina
+Vanderbilt" "Kentucky
+Vanderbilt" "Arkansas
+Vanderbilt" "Florida
+Vanderbilt" "Georgia
+Vanderbilt" "Middle Tenn St.
+Duke" "Miami-FL
+Duke" "Georgia Tech
+Duke" "Clemson
+Duke" "Virginia
+Duke" "Navy
+Duke" "Virginia Tech
+Duke" "Florida State
+Bowling Green" "Kent
+Bowling Green" "Miami-OH
+Bowling Green" "Wisconsin
+Bowling Green" "Western Michigan
+Bowling Green" "Toledo
+Bowling Green" "Akron
+Bowling Green" "Temple
+North Texas" "Arkansas St.
+North Texas" "Kansas State
+North Texas" "Tulsa
+North Texas" "Louisiana-Laf.
+North Texas" "Middle Tenn St.
+Wyoming" "UNLV
+Wyoming" "Colorado State
+Wyoming" "Utah
+Wyoming" "San Diego St.
+Wyoming" "Brigham Young
+Wyoming" "TCU
+Wyoming" "Florida
+Georgia" "Miss. State
+Georgia" "Auburn
+Georgia" "South Carolina
+Georgia" "Kentucky
+Georgia" "Georgia Tech
+Georgia" "Arkansas
+Georgia" "Florida
+Penn State" "Illinois
+Penn State" "Wisconsin
+Penn State" "South Florida
+Penn State" "Michigan
+Penn State" "Michigan State
+Penn State" "Purdue
+Texas" "Oklahoma
+Texas" "Texas Tech
+Texas" "Kansas
+Texas" "Rice
+Texas" "Texas A&M
+Texas" "Missouri
+Texas" "Louisiana-Laf.
+Purdue" "Wisconsin
+Purdue" "Akron
+Purdue" "Illinois
+Purdue" "Michigan State
+Purdue" "Notre Dame
+Purdue" "Indiana
+Miami-OH" "Kent
+Miami-OH" "Akron
+Miami-OH" "Northern Illinois
+Miami-OH" "Eastern Michigan
+Miami-OH" "Temple
+Louisville" "Pittsburgh
+Louisville" "Syracuse
+Louisville" "South Florida
+Louisville" "Kentucky
+Louisville" "Oregon State
+Kansas" "Oklahoma
+Kansas" "Nebraska
+Kansas" "Kansas State
+Kansas" "Texas Tech
+Kansas" "Missouri
+Rice" "Navy
+Rice" "UCLA
+Rice" "SMU
+Rice" "UAB
+Rice" "Houston
+Rice" "Tulsa
+Rice" "UCF
+Kansas State" "Oklahoma
+Kansas State" "Nebraska
+Kansas State" "Texas Tech
+Kansas State" "Texas A&M
+Kansas State" "Missouri
+Kansas State" "Marshall
+Kent" "Eastern Michigan
+Kent" "Northern Illinois
+Kent" "Navy
+Kent" "Western Michigan
+Kent" "Michigan State
+Kent" "Akron
+Marshall" "SMU
+Marshall" "Virginia Tech
+Marshall" "UAB
+Marshall" "Memphis
+Marshall" "UCF
+Notre Dame" "Syracuse
+Notre Dame" "Brigham Young
+Notre Dame" "Michigan State
+Notre Dame" "Michigan
+Notre Dame" "Navy
+Notre Dame" "Pittsburgh
+Colorado State" "UNLV
+Colorado State" "Utah
+Colorado State" "Brigham Young
+Colorado State" "San Diego St.
+Colorado State" "TCU
+Colorado State" "Nevada
+Georgia Tech" "Miami-FL
+Georgia Tech" "Auburn
+Georgia Tech" "Clemson
+Georgia Tech" "Virginia
+Georgia Tech" "Virginia Tech
+TCU" "Oklahoma
+TCU" "UNLV
+TCU" "Utah
+TCU" "SMU
+TCU" "Brigham Young
+TCU" "San Diego St.
+Pittsburgh" "Nebraska
+Pittsburgh" "Syracuse
+Pittsburgh" "South Florida
+Utah State" "UNLV
+Utah State" "Hawaii
+Utah State" "Utah
+Utah State" "New Mexico St.
+Utah State" "Idaho
+Utah State" "Nevada
+Wisconsin" "Illinois
+Wisconsin" "Temple
+Wisconsin" "Hawaii
+Wisconsin" "Michigan
+Wisconsin" "Indiana
+UCLA" "Oklahoma
+UCLA" "California
+UCLA" "Oregon State
+UCLA" "San Diego St.
+Toledo" "Eastern Michigan
+Toledo" "Western Michigan
+Toledo" "Temple
+Toledo" "Northern Illinois
+Florida State" "Boston College
+Florida State" "Miami-FL
+Florida State" "Florida
+Florida State" "Syracuse
+Florida State" "Virginia
+Florida State" "Virginia Tech
+Florida State" "Clemson
+Louisiana-Laf." "Arkansas St.
+Louisiana-Laf." "Eastern Michigan
+Louisiana-Laf." "Middle Tenn St.
+Louisiana-Laf." "UCF
+UCF" "South Carolina
+UCF" "South Florida
+UCF" "UAB
+UCF" "Tulsa
+UCF" "Memphis
+UCF" "Houston
+Auburn" "Kentucky
+Auburn" "Miss. State
+Auburn" "South Carolina
+Auburn" "Arkansas
+Clemson" "Boston College
+Clemson" "Miami-FL
+Clemson" "South Carolina
+Clemson" "Texas A&M
+Clemson" "Temple
+Western Michigan" "Eastern Michigan
+Western Michigan" "Virginia
+Western Michigan" "Northern Illinois
+Western Michigan" "Temple
+Michigan State" "Illinois
+Michigan State" "Indiana
+Michigan State" "Michigan
+Michigan State" "Hawaii
+Oregon State" "California
+Oregon State" "Oregon
+Memphis" "UAB
+Memphis" "Tulsa
+Memphis" "Houston
+Utah" "UNLV
+Utah" "San Diego St.
+Utah" "Brigham Young
+Brigham Young" "Boston College
+Brigham Young" "UNLV
+Brigham Young" "San Diego St.
+South Florida" "Miami-FL
+South Florida" "Syracuse
+Kentucky" "Miss. State
+Kentucky" "South Carolina
+Kentucky" "Indiana
+Kentucky" "Florida
+Idaho" "UNLV
+Idaho" "Hawaii
+Idaho" "New Mexico St.
+Idaho" "Nevada
+UAB" "SMU
+Florida" "Miss. State
+Florida" "South Carolina
+Temple" "Miami-FL
+Temple" "Virginia
+Temple" "Navy
+Boston College" "Virginia
+Boston College" "Virginia Tech
+Miss. State" "Arkansas
+Miss. State" "Houston
+UNLV" "San Diego St.
+UNLV" "Nevada
+Northern Illinois" "Eastern Michigan
+Northern Illinois" "Michigan
+Northern Illinois" "Akron
+South Carolina" "Arkansas
+Syracuse" "Virginia
+Indiana" "Michigan
+Indiana" "Illinois
+Texas A&M" "Oklahoma
+Texas A&M" "Texas Tech
+Texas A&M" "SMU
+Tulsa" "Oklahoma
+Tulsa" "SMU
+Tulsa" "Houston
+California" "Illinois
+California" "New Mexico St.
+California" "Oregon
+Miami-FL" "Virginia
+Miami-FL" "Virginia Tech
+Texas Tech" "Oklahoma
+Texas Tech" "Nebraska
+New Mexico St." "Hawaii
+New Mexico St." "Nevada
+Arkansas St." "Missouri
+Arkansas St." "Middle Tenn St.
+Oregon" "Houston
+Nevada" "Hawaii
+Oklahoma" "Nebraska
+Eastern Michigan" "Michigan
+SMU" "Houston
+Middle Tenn St." "Akron
+Nebraska" "Missouri
+Virginia" "Virginia Tech
+San Diego St." "Hawaii

@@ -1,0 +1,117 @@
+Air Force                 	Mountain West
+Akron                     	Mid-American
+Alabama                   	Southeastern
+Arizona                   	Pacific-10
+Arizona State             	Pacific-10
+Arkansas                  	Southeastern
+Arkansas St.              	Sun Belt
+Army                      	Independent
+Auburn                    	Southeastern
+Ball State                	Mid-American
+Baylor                    	Big 12
+Boise State               	Western Athletic
+Boston College            	ACC
+Bowling Green             	Mid-American
+Brigham Young             	Mountain West
+Buffalo                   	Mid-American
+California                	Pacific-10
+Central Michigan          	Mid-American
+Cincinnati                	Big East
+Clemson                   	ACC
+Colorado                  	Big 12
+Colorado State            	Mountain West
+Connecticut               	Big East
+Duke                      	ACC
+East Carolina             	Conference USA
+Eastern Michigan          	Mid-American
+Florida                   	Southeastern
+Florida State             	ACC
+Fresno State              	Western Athletic
+Georgia                   	Southeastern
+Georgia Tech              	ACC
+Hawaii                    	Western Athletic
+Houston                   	Conference USA
+Idaho                     	Western Athletic
+Illinois                  	Big Ten
+Indiana                   	Big Ten
+Iowa                      	Big Ten
+Iowa State                	Big 12
+Kansas                    	Big 12
+Kansas State              	Big 12
+Kent                      	Mid-American
+Kentucky                  	Southeastern
+LSU                       	Southeastern
+Louisiana Tech            	Western Athletic
+Louisiana-Laf.            	Sun Belt
+Louisiana-Monroe          	Sun Belt
+Louisville                	Big East
+Marshall                  	Conference USA
+Maryland                  	ACC
+Memphis                   	Conference USA
+Miami-FL                  	ACC
+Miami-OH                  	Mid-American
+Michigan                  	Big Ten
+Michigan State            	Big Ten
+Middle Tenn St.           	Sun Belt
+Minnesota                 	Big Ten
+Miss. State               	Southeastern
+Missouri                  	Big 12
+NC State                  	ACC
+Navy                      	Independent
+Nebraska                  	Big 12
+Nevada                    	Western Athletic
+New Mexico                	Mountain West
+New Mexico St.            	Western Athletic
+North Carolina            	ACC
+North Texas               	Sun Belt
+Northern Illinois         	Mid-American
+Northwestern              	Big Ten
+Notre Dame                	Independent
+OK State                  	Big 12
+Ohio                      	Mid-American
+Ohio State                	Big Ten
+Oklahoma                  	Big 12
+Ole Miss                  	Southeastern
+Oregon                    	Pacific-10
+Oregon State              	Pacific-10
+Penn State                	Big Ten
+Pittsburgh                	Big East
+Purdue                    	Big Ten
+Rice                      	Conference USA
+Rutgers                   	Big East
+SMU                       	Conference USA
+San Diego St.             	Mountain West
+San Jose St.              	Western Athletic
+South Carolina            	Southeastern
+South Florida             	Big East
+Southern Cal              	Pacific-10
+Southern Miss.            	Conference USA
+Stanford                  	Pacific-10
+Syracuse                  	Big East
+TCU                       	Mountain West
+Temple                    	Independent
+Tennessee                 	Southeastern
+Texas                     	Big 12
+Texas A&M                 	Big 12
+Texas Tech                	Big 12
+Texas-El Paso             	Conference USA
+Toledo                    	Mid-American
+Troy                      	Sun Belt
+Tulane                    	Conference USA
+Tulsa                     	Conference USA
+UAB                       	Conference USA
+UCF                       	Conference USA
+UCLA                      	Pacific-10
+UNLV                      	Mountain West
+Utah                      	Mountain West
+Utah State                	Western Athletic
+Vanderbilt                	Southeastern
+Virginia                  	ACC
+Virginia Tech             	ACC
+Wake Forest               	ACC
+Wash. St.                 	Pacific-10
+Washington                	Pacific-10
+West Virginia             	Big East
+Western Michigan          	Mid-American
+Wisconsin                 	Big Ten
+Wyoming                   	Mountain West
