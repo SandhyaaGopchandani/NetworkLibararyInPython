@@ -1,4 +1,4 @@
-# Network Libarary In Python
+# Network Library In Python
 
 This repository contains a network library (nets.py) for handling undirected and directed graphs. 
 
